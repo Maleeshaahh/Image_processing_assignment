@@ -61,9 +61,6 @@ The program will:
 # Results
 
 The system produces the following outputs:
-
 - Enhanced video frames
 - Segmented player images
-Faculty of Applied Sciences  
-Department of Physical Sciences  
-Rajarata University of Sri Lanka
+
