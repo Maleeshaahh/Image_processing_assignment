@@ -63,4 +63,5 @@ The program will:
 The system produces the following outputs:
 - Enhanced video frames
 - Segmented player images
+- player tracking
 
